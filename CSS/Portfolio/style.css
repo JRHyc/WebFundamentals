@@ -1,10 +1,10 @@
 #wrapper{
-    background-color: #644e58;
     width: 970px;
     height: 1200px;
+    background: radial-gradient(#6f5964, #1c0c10);
 }
 #header{
-    background-color: #f6f6f6;
+    background-color: #fafafa;
     width: 970px;
     height: 60px;
 }
@@ -12,6 +12,7 @@ h1{
     font-size: 25px;
     display: inline-block;
     margin-left: 30px;
+    font-family: Arial, Helvetica, sans-serif; 
 }
 h2{
     font-size: 25px;
@@ -25,7 +26,7 @@ h2{
     display: inline-block;
 }
 #about{
-    background-color: #e1d5e0;
+    background: radial-gradient(#fefefe, #dacbd9);
     display: inline-block;
     height: 273px;
     width: 500px;
@@ -36,16 +37,17 @@ h2{
 h3{
     font-size: 25px;
     margin: 0px 0px 0px 0px;
-    background-color: #878693;
+    background: radial-gradient(#878593, #b2b2b5);
     padding: 5px;
-    color: #ffffff
+    color: #ffffff;
 }
 .subcontents{
-    background-color: #e1d5e0;
-    height: 500px;
+    background: radial-gradient(#fefefe, #dacbd9);
+    height: 570px;
     width: 291px;
     display: inline-block;
-    margin: 20px 5px 5px 20px;
+    margin: 20px 19px 5px 10px;
+    float: right;
 }
 #lamode{
     height: 160px;
@@ -62,7 +64,64 @@ h3{
 p{
     color: black;
     font-size: 10pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px 0px 0px 0px;
 }
 .icons{
+    height: 37px;
+    margin: 5px 5px 5px 5px;
+}
+#footer{
+    background-color: #fafafa;
+    font-weight: 1000;
+    width: 970px;
+    height: 60px;
+    text-align: center;
+    margin: 615px 0px 0px 0px;
+    padding: 10px 0px 10px 0px;
+}
+#footer a{
+    font-style: italic;
+    font-weight: 1000; 
+}
+.logos{
     height: 20px;
+    padding: 0px 0px 0px 0px;
+    margin: 15px 0px 0px 0px;
+}
+a{
+    color: #2f373c;
+}
+button{
+    background-color: #407d61;
+    color: #fafdfc;
+    border-radius: 10px;
+    font-size: 12px;
+    padding: 5px 5px 5px 5px;
+    border: 1px solid black;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 5px 5px 5px 110px;
+}
+#LaModeButton{
+    margin: 5px 5px 5px 113px;
+
+}
+#FamilyContactsButton{
+    margin: 5px 5px 5px 92px;
+}
+#fiveElevenButton{
+    margin: 5px 5px 5px 109px;
+}
+#technologiesfiveEleven{
+    margin: 30px 0px 0px 0px;
+    background: radial-gradient(#878593, #b2b2b5);
+}
+#technologiesFamilyContacts{
+    margin: 63px 0px 0px 0px;
+    background: radial-gradient(#878593, #b2b2b5);
+}
+#technologiesLaMode{
+    margin: 79px 0px 0px 0px;
+    background: radial-gradient(#878593, #b2b2b5);    
 }
