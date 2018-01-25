@@ -1,0 +1,68 @@
+#wrapper{
+    background-color: #644e58;
+    width: 970px;
+    height: 1200px;
+}
+#header{
+    background-color: #f6f6f6;
+    width: 970px;
+    height: 60px;
+}
+h1{
+    font-size: 25px;
+    display: inline-block;
+    margin-left: 30px;
+}
+h2{
+    font-size: 25px;
+    display: inline-block;
+    margin-left: 400px;
+}
+#PhotoDoe{
+    width: 400px;
+    border: 5px solid silver;
+    margin: 20px 0px 0px 20px;
+    display: inline-block;
+}
+#about{
+    background-color: #e1d5e0;
+    display: inline-block;
+    height: 273px;
+    width: 500px;
+    float: right;
+    margin: 20px 20px 0px 0px;
+
+}
+h3{
+    font-size: 25px;
+    margin: 0px 0px 0px 0px;
+    background-color: #878693;
+    padding: 5px;
+    color: #ffffff
+}
+.subcontents{
+    background-color: #e1d5e0;
+    height: 500px;
+    width: 291px;
+    display: inline-block;
+    margin: 20px 5px 5px 20px;
+}
+#lamode{
+    height: 160px;
+    display: inline-block;
+}
+#familycontacts{
+    height: 160px;
+    display: inline-block;
+}
+#fiveEleven{
+    height: 160px;
+    display: inline-block;
+}
+p{
+    color: black;
+    font-size: 10pt;
+}
+.icons{
+    height: 20px;
+}
