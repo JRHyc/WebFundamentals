@@ -1,0 +1,72 @@
+#wrapper{
+    width: 970px;
+    height: 1200px;
+    background-color: #245076;
+}
+h5{
+    text-align: right;
+    margin: 0px 0px 0px 0px;
+    padding: 12px 45px 0px 0px;
+    color: white;
+}
+h5 a{
+    color: yellow;
+}
+#PythonLogo{
+    height: 100px;
+    display: inline-block;
+}
+#SearchBox{
+    display: inline-block;
+    float: right;
+    margin: 0px 20px 0px 0px;
+    background-color: gray;
+    padding: 20px 20px 20px 20px;
+}
+#TaskBar{
+}
+#TaskBar ul{
+    list-style-type: none;
+    margin: 0px 30px 0px 60px;
+    padding: 20px 0px 40px 0px; 
+    background-color: #333333;
+}
+#TaskBar ul li{
+    float: left;
+    
+}
+#TaskBar ul li a{
+    color: white;
+    padding: 0px 10px 0px 20px;
+    margin: 0px 15px 0px 10px;
+    font-size: 23px;
+    text-decoration: none;
+}
+#SideBar{
+    background-color: green;
+    display: inline-block;
+    float: left;
+}
+#main{
+    background-color: purple;
+    display: inline-block;
+    width: 635px;
+}
+#main p{
+    color: white;
+    text-align: center;
+}
+#main p:nth-child(2){
+    color: yellow;
+    text-align: center;
+}
+#main p:nth-child(3){
+    color: white;
+    text-align: center;
+}
+#gettingStarted{
+    background-color: pink;
+    display: inline-block;
+    height: 90px;
+    width: 400px;
+}
