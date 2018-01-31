@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 60%;
+    margin: 0px 0px 20px 0px;
+}
+th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+tr:nth-child(odd) {
+    background-color: #dddddd;
+}
+h1{
+    margin: 0px 0px 20px 0px;
+}
+form{
+    display: grid;
+    width: 300px;
+    margin: 20px 0px 0px 30px;
+}
