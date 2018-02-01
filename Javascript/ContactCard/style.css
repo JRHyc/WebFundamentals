@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+form{
+        display: grid;
+        width: 300px;
+        margin: 30px 0px 20px 30px;
+}
+h4{
+    margin: 30px 0px 0px 0px;
+}
+#textBox{
+    margin: 00px 0px 0px 0px;
+}
+.bCard{
+    border: solid black;
+    float: right;
+    background-color: pink;
+}
+div{
+    background-color: light green;
+}
