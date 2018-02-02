@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+form{
+    margin: 150px 0px 0px 150px;
+    background-color: pink;
+    width: 500px;
+    display: inline-block;
+    height: 300px;
+}
+h1{
+    margin: 0px 0px 0px 300px;
+}
+h2{
+    margin: 30px 0px 0px 300px;
+    font-size: 20px;
+    background-color: aqua;
+    display: inline-block;
+
+}
